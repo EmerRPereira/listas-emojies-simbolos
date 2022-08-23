@@ -1,0 +1,78 @@
+body {
+    background-color: gainsboro;
+}
+
+#Imagem1 {
+    width: 15%;
+    border: 3px solid red;
+    padding: 2mm;
+    margin-left: 2cm;
+}
+
+h3 {
+    display: inline-block;
+    margin-left: 10%;
+}
+.titulo {
+    color:blueviolet;
+}
+
+.sub01 {
+    color:black;
+}
+
+.sub02 {
+    color:brown;
+}
+
+.meio {
+    background-color: goldenrod;
+    border: 3px solid red;
+}
+.text1 {
+    margin-left: 2cm;
+    font-size: 30px;
+    color: blue;
+}
+
+b {
+    color:black;
+}
+
+i {
+    color:brown;
+}
+
+#prof {
+    font-size: 20px;
+    margin-left: 25cm;
+}
+
+.espaco {
+    margin-left: 5cm;
+}
+
+.lista {
+    background-color: yellow;
+}
+
+ol {
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: top;
+    margin-left: 3cm;
+}
+
+ul {
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: top;
+    margin-left: 3cm;
+}
+
+#Imagem2 {
+    margin-left: 5cm;
+    width: 20%;
+    border: 4px dotted green;
+    padding: 5px;
+}
